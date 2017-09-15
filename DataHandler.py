@@ -7,8 +7,8 @@ class DataHandler(object):
 
     @staticmethod
     def grab_url():
-        url = "http://conker/WebServices/dbaService/dbaService.svc"
-        #url = "http://conker/WebServices/dbaService/dbaService.svc?singleWsdl"
+        url = "http://pointer_to_service/dbaService.svc"
+        
         return url
 
     @staticmethod
